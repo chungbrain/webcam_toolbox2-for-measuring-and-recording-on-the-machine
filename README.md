@@ -25,3 +25,5 @@ Plus, you also get compressed video clip (.mp4 format) shown as below.
 
 <img src="https://github.com/chungbrain/webcam_toolbox2-for-measuring-and-recording-on-the-machine/blob/master/2018-05-07_15-41-19.png" width="720"> 
 
+Please see "recording_with_1280x720_and_30_frames.ipynb" file, if you want to record a high definition video with resolution (1280x720) and frame (30 fps) on the local machine.
+
